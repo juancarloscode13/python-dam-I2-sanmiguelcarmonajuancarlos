@@ -1,2 +1,12 @@
 - Crea un script en python que contenga funciones útiles para analizar una lista de precios. Después crea otro script en el que apliques las funciones anteriormente creadas. Hazlo de manera sencilla, pues soy principiante en python.
 - Ahora modifica las funciones para que manejen los posibles errores que pueden darse, por ejemplo, con el tipo de las variables a la hora de realizar los cálculos.
+- Teniendo en cuenta que mi grupo es compuesto por estudiantes
+ que acaban de empezar con Python, cómo podríamos realizar este
+ apartado:
+ Investigación de módulos (estándar y no estándar).
+ Elegid un módulo estándar y no estándar de Python, entended
+ para qué sirve y elaborar una pequeña ficha en la que
+ seleccionéis dos o tres funciones relevantes del módulo
+ y las expliquéis con un programa sencillito con su uso.
+
+- Cambia este código para que request busque chistes en internet.
