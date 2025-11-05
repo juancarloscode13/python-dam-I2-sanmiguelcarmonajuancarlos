@@ -1,0 +1,11 @@
+- Anidadas.py
+En python generame un script:
+Crea una estructura que contenga varios registros. Cada
+registro debe ser un diccionario con al menos tres campos que conforme
+una situación práctica en vuestra cotidianeidad. Implementa funciones
+para: añadir registros, buscar un registro por un campo, calcular una
+estadística (media, máximo, etc.). Controla errores: duplicados, vacíos,
+tipos incorrectos.
+Busca un ejemplo práctico para una estructura inversa (diccionario de
+listas) y explica las diferencias que encuentras. Hazlo de manera sencilla,
+pues soy principiante en python.
