@@ -1,0 +1,13 @@
+refactor.py:
+
+- Refactoriza este código dividiendolo en funciones y haciendo manejo de errores.
+
+final.py:
+
+Haz un programa funcional en python sobre control de tareas diarias que cumpla con los siguientes requisitos:
+
+- Al menos, que tenga 3 funciones, con parámetros y retorno.
+- Control de errores mediante try-except donde sea necesario.
+- Uso de al menos un módulo estándar.
+
+Haz un código simple, pues estoy empezando en python y no quiero nada complicado.
