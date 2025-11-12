@@ -1,6 +1,6 @@
 refactor.py:
 
-- Refactoriza este código dividiendolo en funciones y haciendo manejo de errores.
+- Refactoriza este código dividiendolo en funciones y haciendo manejo de errores. (Le paso el código dado)
 
 final.py:
 
